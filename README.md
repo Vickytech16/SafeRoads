@@ -129,7 +129,7 @@ A cross-platform mobile application for end users, built with Flutter.
 Hi, I'm **M Vignesh Muruga**, a passionate software developer from Trichy, building full-stack and AI-powered apps to solve real-world problems.
 
 📌 [GitHub](https://github.com/Vickytech16)  
-📌 [LinkedIn](https://linkedin.com/in/vigneshmuruga)
+📌 [LinkedIn](https://www.linkedin.com/in/vignesh-muruga-m-92762b229/)
 
 ---
 
